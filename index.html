@@ -274,7 +274,10 @@
                 <li>Run <code>zdragon</code> (or <code>zdragon.exe</code> on Windows)</li>
             </ol>
             <div class="note" id="macos-note" style="display: none;">
-                <strong>macOS Users:</strong> On first launch, you may need to right-click the app and select "Open" to bypass Gatekeeper, or go to System Preferences → Security & Privacy and click "Open Anyway".
+                <strong>macOS Users:</strong> For the easiest installation, run this in Terminal:
+                <pre style="background: rgba(0,0,0,0.3); padding: 12px; border-radius: 6px; margin-top: 10px; overflow-x: auto;"><code>curl -fsSL https://raw.githubusercontent.com/Baudin999/zdragon-releases/master/install.sh | bash</code></pre>
+                <p style="margin-top: 10px; font-size: 0.85em; color: #d4a574;">This installs ZDragon to /Applications and removes the quarantine flag automatically.</p>
+                <p style="margin-top: 8px; font-size: 0.85em;">Or manually: download, extract, move to Applications, then run <code>xattr -cr /Applications/zdragon.app</code></p>
             </div>
         </section>
 
