@@ -46,6 +46,3 @@ This will:
 
 Note: Linux users need to install Graphviz separately (`apt install graphviz` or equivalent).
 
-## Source Code
-
-See the main repository: [Baudin999/CkNotion](https://github.com/Baudin999/CkNotion)
