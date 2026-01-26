@@ -2,6 +2,8 @@
 
 This repository contains release binaries for ZDragon.
 
+Website: [website](https://baudin999.github.io/zdragon-releases/)
+
 ## Download
 
 Download the latest release from the [Releases page](https://github.com/Baudin999/zdragon-releases/releases).
